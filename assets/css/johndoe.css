@@ -11506,8 +11506,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://mir-s3-cdn-cf.behance.net/f22f82399644acee95c29a07a728fd01/4b02a538-c77e-4d35-bd5d-d7a9f7c16a3d_rwc_0x1229x4160x575x4160.jpg?h=6f6b1811d15227d3eda3e2d578313c30);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://mir-s3-cdn-cf.behance.net/f22f82399644acee95c29a07a728fd01/4b02a538-c77e-4d35-bd5d-d7a9f7c16a3d_rwc_0x1229x4160x575x4160.jpg?h=6f6b1811d15227d3eda3e2d578313c30);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
